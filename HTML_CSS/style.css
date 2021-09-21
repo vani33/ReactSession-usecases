@@ -1,0 +1,54 @@
+.container{
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+#heading{
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+}
+label{
+    font-weight: bold;
+    color:black;
+    display: inline-block;
+    width: 300px;
+    text-align: left;  
+}
+input{
+    display:inline-block;
+    width:25%;
+    
+}
+button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 40%;
+}
+#accept{
+    display: inline-block;
+    
+}
+div.radio-container {
+    
+    display: inline-block;
+    margin-left: 30%;
+    
+}
+#gender{
+    font-weight: bold;
+    color:black;
+    float: left;
+    margin-left: 25%;
+}
+
+#hobbies{
+    display:inline-block;
+    width:25%;
+}

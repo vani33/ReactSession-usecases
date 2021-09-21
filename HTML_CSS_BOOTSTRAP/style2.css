@@ -1,0 +1,50 @@
+nav .navbar-nav li a{
+    color: white !important;
+    
+}
+nav .navbar-brand{
+    color: white !important;
+    margin-left: 10px;
+}
+#copyright{
+    background-color:cadetblue;
+    padding: 10px;
+    
+}
+footer {
+    background-color: azure;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+}  
+
+.homepage{
+    background-color: antiquewhite;
+}
+.card-img-top{
+    width: 80px;
+    height: 200px;
+}
+#heading{
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+}
+#register{
+    border: solid 2px rgb(163, 144, 144);
+    background-color: rgb(163, 199, 199)
+}
+#registration{
+    background-color: floralwhite;
+}
+.form-group{
+    font-weight: 500;
+}
+ #easycart{
+    padding-bottom: 100px;
+}
+
+
+
